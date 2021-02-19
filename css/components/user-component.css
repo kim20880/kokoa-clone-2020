@@ -8,7 +8,7 @@
   align-items: center;
 }
 
-.user-coponent__avatar {
+.user-component__avatar {
   width: 70px;
   height: 70px;
   border-radius: 30px;
@@ -24,11 +24,6 @@
   margin-top: 8px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
-}
-
-.user-component__avatar {
-  width: 80px;
-  height: 80px;
 }
 
 .user-component__avatar--sm {
